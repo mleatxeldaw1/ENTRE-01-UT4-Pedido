@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestPedido
+comment0.text=\r\n\ \ Clase\ para\ probar\ el\ resto\ de\ clases\r\n\ \ \r\n
+comment1.params=
+comment1.target=TestPedido()
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=
+comment2.target=void\ mostrarPedidos()
+comment2.text=\r\n\ Muestra\ la\ informaci\u00F3n\ de\ los\ dos\ pedidos\ (ver\ enunciado)\r\n
+numComments=3
